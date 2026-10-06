@@ -12,11 +12,13 @@ I build backend services and full-stack applications with a focus on APIs, data-
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript
+**Languages:** Python, JavaScript, C++, Java, C
 
-**Backend & APIs:** Flask, Node, Express, PostgreSQL, FastAPI, Pydantic, REST APIs
+**Backend & APIs:** Flask, Node, Express, PostgreSQL, MongoDB, FastAPI, Pydantic, n8n, REST APIs
 
-**Frontend:** Vue, React, HTML, CSS (Tailwind, Bootstrap)
+**CI/CD:** Docker, Google Cloud Platform
+
+**Frontend:** Vue, React, React Native, HTML, CSS (Tailwind, Bootstrap)
 
 **AI/ML:** Pytorch, Scikit-Learn
 
